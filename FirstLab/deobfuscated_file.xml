@@ -1,0 +1,30 @@
+<class>  
+    <student>  
+        <id>101</id>  
+        <firstname>Sophia</firstname>  
+        <lastname>Chernousova</lastname>  
+        <subject>Math</subject>  
+        <marks>83</marks>  
+    </student>
+    <student>  
+        <id>102</id>  
+        <firstname>Evgeniy</firstname>  
+        <lastname>Geraskin</lastname>  
+        <subject>Chemistry</subject>  
+        <marks>60</marks>  
+    </student>
+    <student>  
+        <id>103</id>  
+        <firstname>Rezeda</firstname>  
+        <lastname>Mindubaeva</lastname>  
+        <subject>English</subject>  
+        <marks>70</marks>  
+    </student>
+    <student>  
+        <id>104</id>  
+        <firstname>Mark</firstname>  
+        <lastname>Goloskov</lastname>  
+        <subject>Physics</subject>  
+        <marks>76</marks>  
+    </student>
+</class>
